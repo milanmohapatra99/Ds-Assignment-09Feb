@@ -1,2 +1,2 @@
 # Ds-Assignment-09Feb
-All Assignment Ansers of 09Feb
+All Assignment Answers of 09Feb
